@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bab5880-7529-4577-b921-b5928a050e53" name="Default Changelist" comment="" />
+    <list default="true" id="7bab5880-7529-4577-b921-b5928a050e53" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +12,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/src/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -124,6 +129,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1l9rpk6AndVIxq9aZHJrRlVRAFw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -168,6 +174,12 @@
       <workItem from="1607020665869" duration="4170000" />
       <workItem from="1607183250541" duration="2321000" />
       <workItem from="1607612411882" duration="14222000" />
+      <workItem from="1607877810637" duration="4764000" />
+      <workItem from="1608995529483" duration="598000" />
+      <workItem from="1609097908032" duration="596000" />
+      <workItem from="1609603763197" duration="568000" />
+      <workItem from="1610528668167" duration="1887000" />
+      <workItem from="1611850699242" duration="687000" />
     </task>
     <servers />
   </component>
@@ -179,6 +191,18 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="821" y="209" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1440.900@0.0.1440.900" timestamp="1607020557471" />
+    <state x="601" y="365" key="Github.ShareDialog" timestamp="1608008037974">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="601" y="365" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1608008037974" />
+    <state x="471" y="132" key="Github.UntrackedFilesDialog" timestamp="1608008051974">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="471" y="132" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1608008051974" />
+    <state x="308" y="203" key="IDE.errors.dialog" timestamp="1608058975233">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="308" y="203" key="IDE.errors.dialog/0.0.1440.900@0.0.1440.900" timestamp="1608058975233" />
     <state x="236" y="86" key="SettingsEditor" timestamp="1607103809297">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
