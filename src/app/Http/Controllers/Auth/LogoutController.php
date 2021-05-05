@@ -9,6 +9,8 @@ class LogoutController extends Controller
 {
     public function logout()
     {
-        auth()->logout();
+//        auth()->refresh();
+        auth()->logout(true);
+        auth()->invalidate();
     }
 }
