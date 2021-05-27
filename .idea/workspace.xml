@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bab5880-7529-4577-b921-b5928a050e53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/Http/Controllers/Auth/LogoutController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Http/Controllers/Auth/LogoutController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/Http/Resources/UserResource.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Http/Resources/UserResource.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/src/public/.htaccess" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,6 +144,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
@@ -155,7 +153,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/app/Http" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -208,7 +206,15 @@
       <workItem from="1619715092400" duration="820000" />
       <workItem from="1619891425106" duration="597000" />
       <workItem from="1619892249733" duration="326000" />
-      <workItem from="1619892919936" duration="7405000" />
+      <workItem from="1619892919936" duration="8065000" />
+      <workItem from="1620495799718" duration="598000" />
+      <workItem from="1620635855541" duration="500000" />
+      <workItem from="1620822414095" duration="426000" />
+      <workItem from="1621513486324" duration="532000" />
+      <workItem from="1621596296047" duration="404000" />
+      <workItem from="1621777144248" duration="3345000" />
+      <workItem from="1621951495070" duration="812000" />
+      <workItem from="1622104117613" duration="693000" />
     </task>
     <task id="LOCAL-00001" summary="master">
       <created>1611855152365</created>
@@ -217,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611855152365</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="master">
+      <created>1620220031838</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620220031840</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,19 +241,5 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="master" />
     <option name="LAST_COMMIT_MESSAGE" value="master" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="-1925" y="-965" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1619892008820">
-      <screen x="-3333" y="-1440" width="3440" height="1440" />
-    </state>
-    <state x="-1925" y="-965" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-3333.-1440.3440.1440/0.0.1440.900@-3333.-1440.3440.1440" timestamp="1619892008820" />
-    <state x="332" y="0" key="CommitChangelistDialog2" timestamp="1611855152017">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="332" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1611855152017" />
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1611855156684">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1611855156684" />
   </component>
 </project>
