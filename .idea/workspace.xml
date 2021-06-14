@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bab5880-7529-4577-b921-b5928a050e53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/Http/Resources/UserResource.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Http/Resources/UserResource.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -168,9 +170,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/app/Http" />
       <recent name="$PROJECT_DIR$/src/app/Http/Controllers" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -214,7 +216,12 @@
       <workItem from="1621596296047" duration="404000" />
       <workItem from="1621777144248" duration="3345000" />
       <workItem from="1621951495070" duration="812000" />
-      <workItem from="1622104117613" duration="693000" />
+      <workItem from="1622104117613" duration="1884000" />
+      <workItem from="1622479472848" duration="1069000" />
+      <workItem from="1622827306351" duration="284000" />
+      <workItem from="1622990762844" duration="47000" />
+      <workItem from="1623082646114" duration="182000" />
+      <workItem from="1623478711285" duration="6081000" />
     </task>
     <task id="LOCAL-00001" summary="master">
       <created>1611855152365</created>
@@ -230,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620220031840</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="master">
+      <created>1622106588145</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622106588145</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,5 +255,16 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="master" />
     <option name="LAST_COMMIT_MESSAGE" value="master" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/app/Http/Resources/UserResource.php</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
