@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7bab5880-7529-4577-b921-b5928a050e53" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +217,30 @@
       <workItem from="1622827306351" duration="284000" />
       <workItem from="1622990762844" duration="47000" />
       <workItem from="1623082646114" duration="182000" />
-      <workItem from="1623478711285" duration="7643000" />
+      <workItem from="1623478711285" duration="9254000" />
+      <workItem from="1624004890530" duration="445000" />
+      <workItem from="1625156601038" duration="718000" />
+      <workItem from="1625157637131" duration="275000" />
+      <workItem from="1625334212713" duration="355000" />
+      <workItem from="1625506966350" duration="12000" />
+      <workItem from="1625507058372" duration="11000" />
+      <workItem from="1625561303755" duration="327000" />
+      <workItem from="1625590191886" duration="226000" />
+      <workItem from="1625764256027" duration="598000" />
+      <workItem from="1626086626450" duration="586000" />
+      <workItem from="1626200021177" duration="334000" />
+      <workItem from="1626284462094" duration="301000" />
+      <workItem from="1626598864753" duration="64000" />
+      <workItem from="1626869421308" duration="554000" />
+      <workItem from="1628266418896" duration="588000" />
+      <workItem from="1628527466518" duration="89000" />
+      <workItem from="1629374916784" duration="598000" />
+      <workItem from="1629531253598" duration="592000" />
+      <workItem from="1629805831281" duration="596000" />
+      <workItem from="1629900229060" duration="461000" />
+      <workItem from="1630263496280" duration="269000" />
+      <workItem from="1631439715520" duration="460000" />
+      <workItem from="1631558425697" duration="578000" />
     </task>
     <task id="LOCAL-00001" summary="master">
       <created>1611855152365</created>
@@ -248,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623656193793</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="master">
+      <created>1623679864360</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1623679864360</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
